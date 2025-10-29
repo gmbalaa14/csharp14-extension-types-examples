@@ -1,7 +1,7 @@
 # C# 14 Extension Types - Real-World Examples
 
 ![C# Version](https://img.shields.io/badge/C%23-14-blue)
-![.NET Version](https://img.shields.io/badge/.NET-9.0-purple)
+![.NET Version](https://img.shields.io/badge/.NET-10.0-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Stars](https://img.shields.io/github/stars/gmbalaa14/csharp14-extension-types-examples)
 
@@ -43,7 +43,7 @@ order.GetAverage()
 
 ### After (Extension Types - C# 14)
 ```csharp
-public static partial class OrderExtensions
+public static class OrderExtensions
 {
     // Properties and categorization logic for analytics
     extension(Order order)
@@ -114,9 +114,9 @@ Automatic audit trail management:
 
 ## 🛠️ Requirements
 
-- **.NET 9.0 SDK** (or later)
+- **.NET 10.0 SDK**
 - **C# 14** language version
-- **Visual Studio 2024** or **JetBrains Rider 2024.3+** (for best experience)
+- **Visual Studio 2026 Insiders**
 
 ---
 
@@ -124,7 +124,7 @@ Automatic audit trail management:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/csharp14-extension-types-examples.git
+git clone https://github.com/gmbalaa14/csharp14-extension-types-examples.git
 cd csharp14-extension-types-examples
 ```
 
@@ -148,7 +148,7 @@ dotnet run
 - **[Migration Guide](docs/migration-guide.md)** - Moving from extension methods to extension types
 - **[Best Practices](docs/best-practices.md)** - Naming conventions and patterns
 - **[Comparison Chart](docs/comparison-chart.md)** - Extension types vs other patterns
-- **[LinkedIn Carousel](docs/linkedin-carousel.pdf)** - Visual explanation of concepts
+- **[LinkedIn Carousel](docs/charp-extension-types.pdf)** - Visual explanation of concepts
 
 ---
 
@@ -239,12 +239,12 @@ If you find this repository helpful:
 
 ## 👤 Author
 
-**[Your Name]**
+**Balagurunathan Marimuthu**
 
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Twitter: [@YourHandle](YOUR_TWITTER)
-- Blog: [Your Blog](YOUR_BLOG_URL)
-- GitHub: [@YourUsername](https://github.com/YOUR-USERNAME)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gmbalaa/)
+- X: [Handle](YOUR_TWITTER)
+- Blog: [.NET Tips](YOUR_BLOG_URL)
+- GitHub: [GitHub Profile](https://github.com/gmbalaa14)
 
 ---
 
@@ -258,7 +258,7 @@ If you find this repository helpful:
 
 ## 📅 Changelog
 
-### v1.0.0 (2025-01-XX)
+### v1.0.0 (2025-10-29)
 - ✨ Initial release with 6 generic extension examples
 - 📚 Complete documentation
 - 🧪 Basic test coverage
@@ -273,7 +273,7 @@ If you find this repository helpful:
 - [C# 14 Language Specification](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [Extension Types Proposal](https://github.com/dotnet/csharplang)
 - [.NET Blog - Extension Types](https://devblogs.microsoft.com/dotnet/)
-- [My LinkedIn Article Series on C# 14](YOUR_LINKEDIN_URL)
+- [My LinkedIn Article](YOUR_LINKEDIN_URL)
 
 ---
 
@@ -281,11 +281,8 @@ If you find this repository helpful:
 
 **Made with ❤️ for the .NET Community**
 
-[Report Bug](https://github.com/YOUR-USERNAME/csharp14-extension-types-examples/issues) · 
-[Request Feature](https://github.com/YOUR-USERNAME/csharp14-extension-types-examples/issues) · 
-[Discussions](https://github.com/YOUR-USERNAME/csharp14-extension-types-examples/discussions)
+[Report Bug](https://github.com/gmbalaa14/csharp14-extension-types-examples/issues) · 
+[Request Feature](https://github.com/gmbalaa14/csharp14-extension-types-examples/issues) · 
+[Discussions](https://github.com/gmbalaa14/csharp14-extension-types-examples/discussions)
 
 </div>
-```
-
----

@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/1-CollectionExtensions/">
+    <Project Path="1-CollectionExtensions/1-CollectionExtensions.csproj" Id="4dfd3f09-3458-4bf7-9288-cba2243f39fd" />
+  </Folder>
+  <Folder Name="/2-EnumerableExtensions/">
+    <Project Path="2-EnumerableExtensions/2-EnumerableExtensions.csproj" Id="2307573a-2347-4a72-ae9d-14b9eb0930dc" />
+  </Folder>
+  <Folder Name="/3-DictionaryExtensions/">
+    <Project Path="3-DictionaryExtensions/3-DictionaryExtensions.csproj" Id="fad11753-c4cc-47e7-ba67-00830b5558fa" />
+  </Folder>
+  <Folder Name="/4-ResultPattern/">
+    <Project Path="4-ResultPattern/4-ResultPattern.csproj" Id="26f75f86-99f0-48eb-8717-081fa4874d6f" />
+  </Folder>
+  <Folder Name="/5-QueryableExtensions/">
+    <Project Path="5-QueryableExtensions/5-QueryableExtensions.csproj" Id="b1ec9cd2-a2fc-45cc-9f62-361652c18864" />
+  </Folder>
+  <Folder Name="/6-EntityExtensions/">
+    <Project Path="6-EntityExtensions/6-EntityExtensions.csproj" Id="17a02f3a-505c-4a98-b947-d7672d4a1667" />
+  </Folder>
+  <Folder Name="/7-DomainExtensions/">
+    <Project Path="7-DomainExtensions/7-DomainExtensions.csproj" Id="52b98142-cc21-42a3-bcd5-80746f3de225" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" Id="47bb7753-ab1a-4ac8-8cc0-fd5ea227c3e6" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ExtensionTypes.Tests/ExtensionTypes.Tests.csproj" Id="1a97e57f-dfe5-485e-9a3c-71057eb84b81" />
+  </Folder>
+</Solution>
