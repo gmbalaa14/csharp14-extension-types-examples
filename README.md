@@ -192,8 +192,6 @@ Contributions are welcome! Here's how you can help:
 - [ ] Write examples for database providers (Dapper, EF Core)
 - [ ] Create video tutorials
 
-**[Read Contribution Guidelines →](CONTRIBUTING.md)**
-
 ---
 
 ## 📊 Comparison: Extension Types vs Alternatives
@@ -256,24 +254,12 @@ If you find this repository helpful:
 
 ---
 
-## 📅 Changelog
-
-### v1.0.0 (2025-10-29)
-- ✨ Initial release with 6 generic extension examples
-- 📚 Complete documentation
-- 🧪 Basic test coverage
-- 📺 LinkedIn carousel content
-
-**[View Full Changelog →](CHANGELOG.md)**
-
----
-
 ## 🔗 Related Resources
 
-- [C# 14 Language Specification](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- [Extension Types Proposal](https://github.com/dotnet/csharplang)
-- [.NET Blog - Extension Types](https://devblogs.microsoft.com/dotnet/)
-- [My LinkedIn Article](YOUR_LINKEDIN_URL)
+- [C# 14 Extension Declaration](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/extension)
+- [C# 14 Feature Specification](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-14.0/extensions)
+- [Extension Types Proposal](https://github.com/dotnet/csharplang/discussions?discussions_q=extension)
+- [.NET Blog - Extension Types](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/)
 
 ---
 
